@@ -1,0 +1,33 @@
+{
+	"name": "Ravi",
+	"surname": "Kuri",
+	"title": "Frontend Devloper",
+	"contact": "+91 8878396215",
+	"email": "ravimk1997@gmail.com",
+	"linkedin": "",
+	"objective": " To work on a challenging project which provides an opportunity to enhance my technical skills and knowledge, this could provide me an insight into new aspects so that it would be helpful for my career",
+	"skills": ["HTML5", "CSS3", "JAVASCRIPT", "ANGULAR"],
+	"project": ["Project is an IOT application, focuses on simple, low cost fingerprint based electronic voting machine using arduino. The proposed system gives the best solution for minimizing the time taken for identifying the voter. Arduino is portable, flexible and consumes minimum power. The proposed system is user-friendly, easily adaptable and cost-effective. I doing this project designing and web development connection in hardware requirement."],
+	"education": [{
+			"institute": "SKSVMACET Lakshmeshwar.",
+			"course": "B.E. Information Science & Engineering",
+			"yop": 2020,
+			"performance":62
+		},
+		{
+			"institute": "Vasvi com PU college Bellary",
+			"course": "12",
+			"yop": 2016,
+			"performance":58
+		},
+		{
+			"institute": "Govt. High school Jagapura",
+			"course": "10",
+			"yop": 2013,
+			"performance":58
+		}
+	],
+	"certificate": ["Participated in EBSB Camp at Toranagallu in the year 2020. Participated in TSC Camp at Bagalkot in the year 2018. Participated in ROBO race at TCE College, gadag in the year 2017 Participated in TERRANAUT at SKSVMACT College, Lakshmeshwar in the year2017"
+	],
+	"declaration": "I here by declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars."
+}
